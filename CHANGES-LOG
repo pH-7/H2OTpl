@@ -1,0 +1,13 @@
+******************** ENGLISH ********************
+New version "0.6.9" Released on: 10/12/2010 (Stable Release)
+New version "0.7.0" Released on: 05/04/2011 (Stable Release) 
+New version "0.90" with Cache. Released on: 06/04/2011 (Stable Release) 
+New version "1.0.0" with Cache and HTML Compress (only works if the cache is enabled) + bug fixes. Released on: 08/04/2011 (Stable Release) 
+New version "2.0.0" The code has been cleaning from scratch, new name (CmsTpl has been renamed for H2OTpl), new license (less restricted for you! ;-)), etc. Released on: 10/06/2014 (Stable Release)
+
+******************** FRENCH ********************
+Nouvelle version "0.6.9" Sortie le : 10/12/2010 (version stable)
+Nouvelle version "0.7.0" Sortie le : 05/04/2011 (version stable)
+Nouvelle version "0.9.0" avec Cache. Sortie le : 06/04/2011 (version stable)
+Nouvelle version "1.0.0" avec Cache et compaction du code html (fonctionne uniquement si le cache est activé) + correction de bogues. Sortie le : 08/04/2011 (version stable)
+Nouvelle version "2.0.0" Le code a été complètement nettoyé à partir de zéro, nouveau nom (CmsTpl a été renommé par H2OTpl), distribué sous une nouvelle licence (moins restreinte pour vous ;-)). Sortie le : 10/06/2014 (version stable)

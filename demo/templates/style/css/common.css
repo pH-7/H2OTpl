@@ -1,0 +1,43 @@
+/*
+ * Author:           Pierre-Henry Soria <ph7software@gmail.com>
+ * Copyright:        (c) 2010-2014, Pierre-Henry Soria. All Rights Reserved.
+ * License:          LGPL Lesser General Public License <http://www.gnu.org/copyleft/lesser.html>
+ */
+
+body  {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background-color: #F4F4F4;
+    font-family: Verdana, Arial, Serif;
+    font-size: 11px;
+    color: #333;
+    text-align: center;
+}
+
+h1  {
+    font-size: 16px;
+    color: #0E4BF3;
+}
+
+h2  {
+    font-size: 14px;
+    color: #3980F3;
+}
+.center  {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+#html5  {
+    background-image: url('../img/HTML5.png');
+    background-repeat: no-repeat;
+    height: 55px;
+    width: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
